@@ -20,7 +20,7 @@ Z←(X−Y+1)×(X+3)
 
 E teste no simulador.
 
-## Questão bônus
+## Questõe
 - Complete as lacunas no simulador em Python.
-- Discuta vantagens e desvantagens de uma arquitetura **de 1 operando (ACC)**.
+- Discuta vantagens e desvantagens de uma arquitetura **de 1 operando (ACC) só com endereçamento direto** contra a arquitetura **de 1 operando (ACC) com endereçamento direto ou imediato.** 
 
