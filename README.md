@@ -14,7 +14,7 @@ Este repositório contém materiais para alunos praticarem **arquitetura de comp
 Implemente os programas que calculam:
 
 \[
-W = (P - Q + 2) \times (P + 4)
+W = (P - Q + 2) x (P + 4)
 \]
 
 E teste no simulador.
