@@ -11,7 +11,7 @@ Este repositório contém materiais para alunos praticarem **arquitetura de comp
   - `cpu2.py` → versão com flags e desvios (para preencher lacunas)
 
 ## Exercício
-Implemente os programas que calculam:
+Implemente o programa que calcula:
 
  
 Z←(X−Y+1)×(X+3) 
