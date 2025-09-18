@@ -7,8 +7,8 @@ Este repositório contém materiais para alunos praticarem **arquitetura de comp
 ## Estrutura
 - `*.asm` → Exercícios em assembly (questões 5a e 5b)
 - `*.py` → Simulador de CPU com acumulador
-  - `cpu_one_operand.py` → versão básica (para preencher lacunas)
-  - `cpu_with_branches.py` → versão completa com flags e desvios
+  - `cpu1.py` → versão básica (para preencher lacunas)
+  - `cpu2.py` → versão completa com flags e desvios
 
 ## Exercício
 Implemente os programas que calculam:
