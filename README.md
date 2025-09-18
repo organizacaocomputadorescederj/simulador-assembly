@@ -13,9 +13,7 @@ Este repositório contém materiais para alunos praticarem **arquitetura de comp
 ## Exercício
 Implemente o programa que calcula:
 
-\[
-Z \leftarrow (X - Y + 1) \times (X + 3)
-\]
+Z←(X−Y+1)×(X+3)
 
 E teste no simulador.
 
