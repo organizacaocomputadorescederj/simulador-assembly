@@ -13,9 +13,9 @@ Este repositório contém materiais para alunos praticarem **arquitetura de comp
 ## Exercício
 Implemente os programas que calculam:
 
-\[
+ 
 W = (P - Q + 2) x (P + 4)
-\]
+ 
 
 E teste no simulador.
 
