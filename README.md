@@ -5,7 +5,7 @@ Este repositório contém materiais para alunos praticarem **arquitetura de comp
 2. **Simulador em Python**
 
 ## Estrutura
-- `*.asm` → Exercícios em assembly (questões 5a e 5b)
+- `*.asm` → Programas em assembly para máquina hipotética
 - `*.py` → Simulador de CPU com acumulador
   - `cpu1.py` → versão básica  
   - `cpu2.py` → versão com flags e desvios (para preencher lacunas)
