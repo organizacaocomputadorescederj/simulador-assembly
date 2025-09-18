@@ -13,14 +13,28 @@ Este repositório contém materiais para alunos praticarem **arquitetura de comp
 ## Exercício
 Implemente o programa que calcula:
 
- 
-Z←(X−Y+1)×(X+3) 
- 
- 
+\[
+Z \leftarrow (X - Y + 1) \times (X + 3)
+\]
 
 E teste no simulador.
 
-## Questõe
-- Complete as lacunas no simulador em Python.
-- Discuta vantagens e desvantagens de uma arquitetura **de 1 operando (ACC) só com endereçamento direto** contra a arquitetura **de 1 operando (ACC) com endereçamento direto ou imediato.** 
+## Como rodar online
+Você pode executar o simulador em qualquer ambiente Python.  
+A forma mais simples é usar o compilador online do Programiz:
 
+1. Acesse: [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/)
+2. Copie e cole o conteúdo do arquivo `cpu2.py`.
+3. Clique em **Run**.
+4. Informe os valores de `X` e `Y` quando solicitado.
+5. Observe o resultado do programa e o traço de execução.
+
+> 💡 Dica: se o programa não mostrar nada, verifique se o arquivo contém no final:
+> ```python
+> if __name__ == "__main__":
+>     main()
+> ```
+
+## Questões
+- Complete as lacunas no simulador em Python.
+- Discuta vantagens e desvantagens de uma arquitetura **de 1 operando (ACC) só com endereçamento direto** contra a arquitetura **de 1 operando (ACC) com endereçamento direto ou imediato.**
