@@ -23,9 +23,10 @@ A forma mais simples é usar o compilador online do Programiz:
 
 1. Acesse: [https://www.programiz.com/python-programming/online-compiler/](https://www.programiz.com/python-programming/online-compiler/)
 2. Copie e cole o conteúdo do arquivo `cpu2.py`.
-3. Clique em **Run**.
-4. Informe os valores de `X` e `Y` quando solicitado.
-5. Observe o resultado do programa e o traço de execução.
+3. Preencha as lacunas (marcadas como TODO no código).
+4. Clique em **Run**.
+5. Informe os valores de `X` e `Y` quando solicitado.
+6. Observe o resultado do programa e o traço de execução.
 
 > 💡 Dica: se o programa não mostrar nada, verifique se o arquivo contém no final:
 > ```python
